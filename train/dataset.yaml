@@ -1,0 +1,4 @@
+train: dataset/train\YOLODataset/images/train/
+val: dataset/train\YOLODataset/images/val/
+nc: 3
+names: ["Abrasion", "Blister", "Avulsion"]

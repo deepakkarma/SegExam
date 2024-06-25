@@ -1,0 +1,4 @@
+train: F:\WorkingDirectory_Python\YOLO-Segmentation\SegExam\train
+val: F:\WorkingDirectory_Python\YOLO-Segmentation\SegExam\test
+nc: 3
+names: ["Abrasion", "Blister", "Avulsion"]
